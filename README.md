@@ -4,4 +4,4 @@ assignment-1-TanishkaMane created by GitHub Classroom
 - 🌱 I’m currently exploring and studying Backend Technologies and Frameworks.
 - ✨ My hobbies are Dancing, swimming
 - 👀 I’m interested in spirituality and understanding the psychology behind people's behaviour.
-- 📫 How to reach me - tanishkamane555@gmail.com
+- 📫 Reach out to me at - tanishkamane555@gmail.com
