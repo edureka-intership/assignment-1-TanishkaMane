@@ -5,17 +5,17 @@
 
 
 .button-login {
-top: 29px;
-left: 1015px;
-width: 43px;
-height: 23px;
-text-align: left;
-font: normal normal medium 16px/25px Poppins;
-letter-spacing: 0px;
-color: #FFFFFF;
-opacity: 1;
-background-color: #CE0505;
-border: 0px;
+    top: 29px;
+    left: 1015px;
+    width: 43px;
+    height: 23px;
+    text-align: left;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    background-color: #CE0505;
+    border: 0px;
 }
 .button-create {
     background-color: transparent;
@@ -23,15 +23,14 @@ border: 0px;
     color: white;
     border-radius: 4px;
     font-size: 14px;
-
     top: 29px;
-left: 1099px;
-width: 181px;
-height: 46px;
-text-align: center;
-font: normal normal medium 16px/25px Poppins;
-letter-spacing: 0px;
-margin-left: 26px;
+    left: 1099px;
+    width: 181px;
+    height: 46px;
+    text-align: center;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    margin-left: 26px;
 }
 .header-section {
     background-color: #CE0505;
@@ -66,15 +65,15 @@ margin-left: 26px;
 .item1 {
     border: 1px solid white;
     top: 195px;
-left: 418px;
-width: 794px;
-padding: 35px 0px 0px 25px;
-margin: 0px 0px 0px 0px;
-height: 291px;
-/* UI Properties */
-background: #FFFFFF 0% 0% no-repeat padding-box;
-box-shadow: 0px 3px 6px #00000029;
-opacity: 1;
+    left: 418px;
+    width: 794px;
+    padding: 35px 0px 0px 25px;
+    margin: 0px 0px 0px 0px;
+    height: 291px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
 }
 
 #item2 {
@@ -90,13 +89,12 @@ opacity: 1;
 }
 .item1-img {
     border-radius: 15px;
-left: 453px;
-width: 100px;
-height: 100px;
-opacity: 1;
-
-transition: all .2s ease;
-vertical-align: middle;
+    left: 453px;
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+    transition: all .2s ease;
+    vertical-align: middle;
 }
 
 
@@ -113,55 +111,55 @@ vertical-align: middle;
 
 .item1-text2 {
     top: 282px;
-left: 619px;
-width: 40px;
-height: 13px;
-padding: 0px 0px 18px 46px;
-/* UI Properties */
-text-align: left;
-font: normal normal medium 16px/30px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-opacity: 1;
+    left: 619px;
+    width: 40px;
+    height: 13px;
+    padding: 0px 0px 18px 46px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 16px/30px Poppins;
+    letter-spacing: 0p    x;
+    color: #192F60;
+    opacity: 1;
 }
 
-.item1-text3 {
+.item1-text3 {    
     top: 310px;
-left: 619px;
-width: 417px;
-height: 23px;
-padding: 0px 0px 0px 46px;
-/* UI Properties */
-text-align: left;
-font: normal normal normal 16px/30px Poppins;
-letter-spacing: 0px;
-color: #636F88;
-opacity: 1;
+    left: 619px;
+    width: 417px;
+    height: 23px;
+    padding: 0px 0px 0px 46px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
 }
 
 .cuisine {
-top: 397px;
-left: 458px;
-width: 140px;
-height: 118px;
-text-align: left;
-font: normal normal normal 16px/30px Poppins;
-letter-spacing: 0px;
-padding: 57px 0px 0px 0px;
-color: #636F88;
-opacity: 1;
+    top: 397px;
+    left: 458px;
+    width: 140px;
+    height: 118px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    padding: 57px 0px 0px 0px;
+    color: #636F88;
+    opacity: 1;
 }
 .bakery {
-top: 397px;
-left: 634px;
-width: 251px;
-height: 69px;
-text-align: left;
-font: normal normal normal 16px/30px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-opacity: 1;
-padding: 57px 0px 0px 36px;
+    top: 397px;
+    left: 634px;
+    width: 251px;
+    height: 69px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    padding: 57px 0px 0px 36px;
 }
 .line{
     width: 739px;
@@ -174,41 +172,41 @@ padding: 57px 0px 0px 36px;
     display: flex;
     padding: 10px;
     top: 370px;
-left: 140px;
-margin-bottom: 19px;
-width: 18px;
-height: 18px;
-border: 2px solid #3A5075;
-border-radius: 2px;
-opacity: 1;
+    left: 140px;
+    margin-bottom: 19px;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #3A5075;
+    border-radius: 2px;
+    opacity: 1;
 }
 .list-name {
     padding-left: 11px;
     top: 370px;
-left: 169px;
-width: 125px;
-height: 20px;
-text-align: left;
-font: normal normal normal 14px/21px Poppins;
-letter-spacing: 0px;
-color: #8C96AB;
-opacity: 1;
+    left: 169px;
+    width: 125px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
 }
 
 .listt {
-box-sizing: border-box;
-top: 195px;
-left: 113px;
-height: 682px;
-background: #FFFFFF 0% 0% no-repeat padding-box;
-box-shadow: 0px 3px 6px #00000029;
-opacity: 1;
-width: 260px;
-padding: 17px 0px 0px 27px;
-margin-left: 113px;
-margin-top: 0px;
-margin-right: 45px;
-margin-bottom: 96px;
+    box-sizing: border-box;
+    top: 195px;
+    left: 113px;
+    height: 682px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    width: 260px;
+    padding: 17px 0px 0px 27px;
+    margin-left: 113px;
+    margin-top: 0px;
+    margin-right: 45px;
+    margin-bottom: 96px;
 }
 
 .list1 {
@@ -217,50 +215,50 @@ margin-bottom: 96px;
 .filters {
     top: 212px;
     margin-bottom: 10px;
-left: 139px;
-width: 55px;
-height: 25px;
-/* UI Properties */
-text-align: left;
-font: normal normal 600 18px/27px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-opacity: 1;
+    left: 139px;
+    width: 55px;
+    height: 25px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
 }
 
 .select-loc {
     top: 247px;
-left: 140px;
-width: 106px;
-height: 20px;
-text-align: left;
-font: normal normal normal 14px/21px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-opacity: 1; 
+    left: 140px;
+    width: 106px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1; 
 }
 .cui {
     top: 335px;
     margin-bottom: 11px;
-left: 140px;
-width: 52px;
-margin-top: 22px;
-height: 20px;
-text-align: left;
-font: normal normal normal 14px/21px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-opacity: 1;
+    left: 140px;
+    width: 52px;
+    margin-top: 22px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
 }
 .select {
     top: 278px;
-left: 140px;
-width: 208px;
-height: 35px;
-border: 1px solid #8C96AB;
-border-radius: 3px;
-padding-left: 9px;
-opacity: 1;
+    left: 140px;
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    padding-left: 9px;
+    opacity: 1;
 }
 
 
@@ -268,51 +266,51 @@ opacity: 1;
     color: #8C96AB;
     margin-top: 11px;
     top: 278px;
-left: 140px;
-margin-right: 25px;
-width: 208px;
-height: 35px;
-border: 1px solid #8C96AB;
-padding-right: 9px;
-border-radius: 3px;
-opacity: 1;
+    left: 140px;
+    margin-right: 25px;
+    width: 208px;
+    height: 35px;
+    border: 1px solid #8C96AB;
+    padding-right: 9px;
+    border-radius: 3px;
+    opacity: 1;
 }
 .list2 {
     display: flex;
     top: 579px;
-left: 169px;
-width: 142px;
-height: 20px;
-text-align: left;
-letter-spacing: 0px;
-margin-bottom: 14px;
-color: #8C96AB;
-opacity: 1;
+    left: 169px;
+    width: 142px;
+    height: 20px;
+    text-align: left;
+    letter-spacing: 0px;    
+    margin-bottom: 14px;
+    color: #8C96AB;
+    opacity: 1;
 }
 
 .circle {
     top: 579px;
-left: 169px;
-width: 22px;
-height: 20px;
-text-align: left;
-letter-spacing: 0px;
-color: #8C96AB;
-opacity: 1;
-margin-bottom: 14px;
+    left: 169px;
+    width: 22px;
+    height: 20px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    margin-bottom: 14px;
 }
 .Costfortwo {
     top: 544px;
-left: 140px;
-width: 89px;
-height: 20px;
-text-align: left;
-font: normal normal normal 14px/21px Poppins;
-letter-spacing: 0px;
-color: #192F60;
-margin-top: 7px;
-margin-bottom: 15px;
-opacity: 1;
+    left: 140px;
+    width: 89px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    margin-top: 7px;
+    margin-bottom: 15px;
+    opacity: 1;
 }
 
 
@@ -332,14 +330,14 @@ opacity: 1;
 
 .page-nos li{
     top: 849px;
-left: 892px;
-width: 36px;
-height: 36px;
-background: #FFFFFF 0% 0% no-repeat padding-box;
-border: 1px solid #8C96AB;
-border-radius: 7px;
-opacity: 1;
-color: #8C96AB;
+    left: 892px;
+    width: 36px;
+    height: 36px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    color: #8C96AB;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -356,17 +354,17 @@ color: #8C96AB;
 }
 
 .brand-logo {
-width: 52px;
-height: 52px;
-/* UI Properties */
-justify-content: center;
-align-items: center;
-display: flex;
-font: normal normal 600 33px/50px Poppins;
-letter-spacing: 0px;
-color: #EB2929;
-opacity: 1;
-border: 1px solid white;
-background-color: white;
-border-radius: 130px;
+    width: 52px;
+    height: 52px;
+    /* UI Properties */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font: normal normal 600 33px/50px Poppins;
+    letter-spacing: 0px;
+    color: #EB2929;
+    opacity: 1;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 130px;
 }
