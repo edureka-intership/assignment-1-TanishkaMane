@@ -1,7 +1,2 @@
-# assignment-1-TanishkaMane
-assignment-1-TanishkaMane created by GitHub Classroom
-- 👋 Hi, I’m @TanishkaMane
-- 🌱 I’m currently exploring and studying Backend Technologies and Frameworks.
-- ✨ My hobbies are Dancing, swimming
-- 👀 I’m interested in spirituality and understanding the psychology behind people's behaviour.
-- 📫 Reach out to me at - tanishkamane555@gmail.com
+This is zomato's one of the web pages. I have used html and css to build this page.
+page link - http://127.0.0.1:5500/assignment%201/ass1.html
